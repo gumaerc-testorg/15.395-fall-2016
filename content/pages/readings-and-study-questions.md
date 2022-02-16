@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Study Questions
 uid: 6193e126-28a1-20a3-1b61-6796285861c5
 ---
@@ -252,7 +254,7 @@ Migirov, Rebecca. "[The Supply Circle: How Blockchain Technology Disintermediate
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Gendal Brown, Richard, James Carlyle, Ian Grigg and Mike Hearn (of R3, a financial sector consortium). "[Corda: An Introduction](http://financialcryptography.com/mt/archives/001597.html)."August, 2016. Do not underestimate the amount of serious private sector investment in this space including by very large financial firms. Could some of this technology have much broader positive impact?
+Gendal Brown, Richard, James Carlyle, Ian Grigg and Mike Hearn (of R{{< sub "3" >}}, a financial sector consortium). "[Corda: An Introduction](http://financialcryptography.com/mt/archives/001597.html)."August, 2016. Do not underestimate the amount of serious private sector investment in this space including by very large financial firms. Could some of this technology have much broader positive impact?
 
 Coppola, Frances. "['Settlement Coin' is All About Banks, Not Blockchain](http://www.coindesk.com/utilities-settlement-all-about-banks-not-blockchain/)." CoinDesk. August 30, 2016. The announcement of a new interbank currency by five major financial institutions caused a stir. Would other banks accept it? Would it require central bank backing? If so, which CB would back an international monetary system?
 
