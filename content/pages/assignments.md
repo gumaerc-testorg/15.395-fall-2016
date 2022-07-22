@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section describes the assignments in the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 5a7dc7b5-151b-7937-4981-9fb422b56915
 ---
@@ -13,7 +17,7 @@ The write-ups should be brief (no more than three double-spaced single-sided pag
 
 **Write-ups are due at the start of class on the day the readings are to be discussed**. These write-ups should be analytical discussions of some issue central to the reading and can also usefully serve as your talking points during the class discussion. Please do not write a summary of the reading or repeat facts from the reading except to bolster your argument. Based on the information provided in the case materials, please be analytically judgmental and evaluative – i.e., take a position and argue it well.
 
-You can use the [Study Guide Questions]({{< baseurl >}}/pages/readings-and-study-questions) to help structure your write-up, or you can take a different approach. In either case, you should propose alternate views and action plans whenever appropriate. Discuss the relevance and applicability of the frameworks proposed in the readings and lectures. In short, you should write what you think of a situation or issue, not a summary of the views presented. Be original. **These case write-ups are INDIVIDUAL assignments**.
+You can use the {{% resource_link 6193e126-28a1-20a3-1b61-6796285861c5 "Study Guide Questions" %}} to help structure your write-up, or you can take a different approach. In either case, you should propose alternate views and action plans whenever appropriate. Discuss the relevance and applicability of the frameworks proposed in the readings and lectures. In short, you should write what you think of a situation or issue, not a summary of the views presented. Be original. **These case write-ups are INDIVIDUAL assignments**.
 
 **A helpful hint for write-ups:** Write up some of the basic ideas that will be discussed in class #2 or #3 – make this part of your preparation for the course and this will help you get into the flow of the material. Then, in a second write-up, apply those basics to the readings for one of the later class sessions. Be creative and thoughtful in what you write. Do this early and get it out of the way.
 
