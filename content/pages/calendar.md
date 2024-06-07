@@ -83,7 +83,7 @@ Guest: one or more team members from the Open Music Initiative.
 Medical Records, Insurance Claims, and Other Personal Data
 {{< tdclose >}}{{< tdopen >}}
 
-From the US Government to Sony Records, it seems like every week we hear about another   
+From the US Government to Sony Records, it seems like every week we hear about another    
 cybersecurity attack that reveals our personal information. We’ll look at a few ways companies, industries, and technologists are testing whether blockchain-based solutions could address these critical problems.
 
 Guests: Jonathan Ruane will discuss his project with Insurance Ireland. Jonathan is developing a project that will allow greater sharing of information among insurance companies. He will give you a front line assessment of what blockchain can and cannot do in this area. The inventors of MedRec are also invited.
@@ -98,8 +98,8 @@ Financial Inclusion
 
 In this session we dive more deeply into some of the social-good use cases for which the blockchain is being proposed, most importantly financial inclusion with a focus on the developing world. This discussion picks up on and reinforces some of the points made in session #3 (on central banks).
 
-Guests:   
-Dazza Greenwood (Media Lab DCI affiliate) and Cailtlin Stilin-Rooney. Dazza and Caitlin are working on a project based on “savings circles” with ethnic Haitian communities in the Dominican Republic/Haiti border region. See [http://law.mit.edu/blockchainborderbank](http://law.mit.edu/blockchainborderbank) for more detail.
+Guests:    
+Dazza Greenwood (Media Lab DCI affiliate) and Cailtlin Stilin-Rooney. Dazza and Caitlin are working on a project based on “savings circles” with ethnic Haitian communities in the Dominican Republic/Haiti border region. 
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -117,7 +117,7 @@ Here we look at use cases that merge the blockchain with the physical world of d
 Clearing, Settlement, and Big Finance
 {{< tdclose >}}{{< tdopen >}}
 
-A great deal of innovation is taking place on Wall Street – within the largest financial firms and in consortia and start-ups that they are backing. The goal is to improve the fundamental mechanisms of finance, including the clearing and settlement of all securities transactions. But is there also a bigger   
+A great deal of innovation is taking place on Wall Street – within the largest financial firms and in consortia and start-ups that they are backing. The goal is to improve the fundamental mechanisms of finance, including the clearing and settlement of all securities transactions. But is there also a bigger    
 agenda of creating a quasi-private digital money. Would this be backed by the central bank? What are the implications for the financial system and more broadly for the world economy? And what is the right ledger infrastructure to develop here: a decentralized, public blockchain like bitcoin, or a more centralized private, distributed ledger managed by financial institutions?
 
 Guests: Neha Narula, research director, MIT Media Lab’s Digital Currency Initiative. Also invited – a Wall Street innovator.
